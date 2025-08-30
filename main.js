@@ -20,7 +20,7 @@ async function checkVersion() {
  * @param {*} wanted_field  Wanted field in json bodies. 
  * @param {*} enable_logs If you want to see the logs of the users, you can activate this.
  * @example
- * const { randomUser } = require("random-roblox-user")
+ * import { randomUser } from ("random-roblox-user")
  * 
  * (async () => {
   const users = await randomUser(3, "name", false);
