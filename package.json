@@ -1,0 +1,41 @@
+{
+  "name": "random-roblox-user",
+  "version": "1.0.1",
+  "description": "Find random roblox users with one function.",
+  "keywords": [
+    "random",
+    "roblox",
+    "user",
+    "roblox-user",
+    "random-roblox-user",
+    "random",
+    "roblox",
+    "user",
+    "roblox",
+    "user",
+    "finder",
+    "roblox",
+    "random",
+    "user",
+    "finder"
+  ],
+  "homepage": "https://github.com/lexyboi/random-roblox-user#readme",
+  "bugs": {
+    "url": "https://github.com/lexyboi/random-roblox-user/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexyboi/random-roblox-user.git"
+  },
+  "license": "Apache-2.0",
+  "author": "lexyboi (https://github.com/lexyboi)",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {}
+}
